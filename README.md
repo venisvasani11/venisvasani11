@@ -1,6 +1,16 @@
 # 💫 About Me:
-I am currently working on Webforest Agenecy LLp
+I’m Venis Vasani, a Flutter Developer & UI/UX Designer with 3+ years of experience building scalable, high-performance Android & iOS mobile applications.
+I specialize in Flutter app development, user-centric UI/UX design, and performance optimization, helping startups and businesses turn ideas into clean, modern, and conversion-focused digital products.
+My experience includes working on business apps, e-commerce platforms, healthcare systems, travel apps, music apps, and social platforms, always focusing on smooth usability, pixel-perfect UI, and maintainable Flutter code.
 
+🔹 Expertise:
+• Flutter App Development 
+• UI/UX Design 
+• Android & iOS Apps 
+• Wireframes & Prototypes 
+• App Performance Optimization
+
+🤝 Open to freelance projects, collaborations, and new opportunities
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/venish.vasani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venisvasani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venis-vasani-727377216) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@venis_vasani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venishvasani1113@gmail.com) 
