@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Venis Vasani, a Flutter Developer & UI/UX Designer with 3+ years of experience building scalable, high-performance Android & iOS mobile applications.
+I’m Venis Vasani, a Flutter Developer & UI/UX Designer with 3.4+ years of experience building scalable, high-performance Android & iOS mobile applications.
 I specialize in Flutter app development, user-centric UI/UX design, and performance optimization, helping startups and businesses turn ideas into clean, modern, and conversion-focused digital products.
 My experience includes working on business apps, e-commerce platforms, healthcare systems, travel apps, music apps, and social platforms, always focusing on smooth usability, pixel-perfect UI, and maintainable Flutter code.
 
